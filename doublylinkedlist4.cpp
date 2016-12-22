@@ -55,7 +55,7 @@ void addnode()          //adding node
     temp1=new node;
     cout<<"enter int to store"<<endl;
     cin>>temp1->data;
-    cout<<"press 's' to add in start,'m' for midd , 'e' for end"<<endl;
+    cout<<"press 's' to add in start,'m' for middle , 'e' for end"<<endl;
     cin>>r;
     switch (r)
     {
